@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="divider">#eaeaea</color>
+    <color name="defaultTextColor_020">#EEFFFF</color>
+    <color name="defaultTextColor_025">#eef</color>
+    <color name="defaultTextColor_050">#ddd</color>
+    <color name="defaultTextColor_100">#ccc</color>
+    <color name="defaultTextColor_200">#bbb</color>
+    <color name="defaultTextColor_300">#aaa</color>
+    <color name="defaultTextColor_600">#999</color>
+    <color name="defaultTextColor_700">#888</color>
+    <color name="defaultTextColor_800">#777</color>
+    <color name="defaultTextColor_900">#555</color>
+    <color name="defaultTextColor">#222222</color>
+
+    <color name="colorBorder">#e8eaed</color>
+    <color name="colorBorder_900">#f0f0f0</color>
+    <color name="colorBorder_800">#f3f3f3</color>
+    <color name="colorBorder_500">#f6f6f6</color>
+    <color name="colorBorder_200">#f9f9f9</color>
+    <color name="colorBorder_300">#f8f8f8</color>
+    <color name="colorBorder_50">#fbfbfb</color>
+    <color name="white">#ffffff</color>
+</resources>
